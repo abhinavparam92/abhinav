@@ -1,0 +1,3 @@
+TypeError: list indices must be integers or slices, not tuple
+IndexError: range object index out of range
+Hi this is Abhinav.
